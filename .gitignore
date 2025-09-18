@@ -208,3 +208,6 @@ environments/community/word_hunt/word_hunt_rollouts*.html
 
 # Diplomacy artefacts
 environments/game_environments/diplomacy_environment/logs/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
